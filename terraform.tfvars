@@ -1,0 +1,5 @@
+region     = "us-east-1"
+profile       = "default"
+endpoint      = "dnguimdo@icloud.com"
+protocol_type = "email"
+team          = "dev"
